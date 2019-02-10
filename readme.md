@@ -1,3 +1,5 @@
 # This is a Japanese study note
 
-* 标日初上[]
+* [短语短句][./sentence.md]
+
+* [标日初上](./Primary_A.md)
