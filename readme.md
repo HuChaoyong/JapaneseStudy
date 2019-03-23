@@ -1,4 +1,6 @@
 # This is a Japanese study note
+<br>
+<center>
 
 ## [基本句型](./Base.md)
 
@@ -17,4 +19,5 @@
 <br>
 
 ## [动词变形](./VerbConvert.md)
+</center>
 
