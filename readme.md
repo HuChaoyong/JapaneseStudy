@@ -1,5 +1,23 @@
 # This is a Japanese study note
+<br>
+<center>
 
-* [短语短句][./sentence.md]
+## [基本句型](./Base.md)
 
-* [标日初上](./Primary_A.md)
+<br>
+
+## [短语短句](./sentence.md)
+
+<br>
+
+## [标日初上_课文](./Primary_A.md)
+
+<br>
+
+## [动词](./Verb.md)
+
+<br>
+
+## [动词变形](./VerbConvert.md)
+</center>
+
