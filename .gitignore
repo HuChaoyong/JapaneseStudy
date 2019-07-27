@@ -1,1 +1,4 @@
 *.sh
+*.zip
+*.gz
+JapNote/*

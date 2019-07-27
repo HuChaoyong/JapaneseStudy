@@ -10,11 +10,11 @@
 
 <br>
 
-## [标日初上_课文](./Primary_A.md)
+## [标日初上_笔记](./Primary_A.md)
 
 <br>
 
-## [标日初下_课文](./Primary_B.md)
+## [标日初下_笔记](./Primary_B.md)
 
 <br>
 
@@ -28,6 +28,6 @@
 ## [容易忘记的](./word.md)
 <br>
 
-## [初下_课文内容](./book.md)
+## [初下_课文](./book.md)
 </center>
 
